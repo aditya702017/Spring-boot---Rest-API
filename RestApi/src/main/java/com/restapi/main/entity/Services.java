@@ -42,7 +42,7 @@ public class Services {
 	
 	public Books updatee(Books b, int id)
 	{
-		//Not fully update 
+		
 		 return ur.save(b);
 	}
 
