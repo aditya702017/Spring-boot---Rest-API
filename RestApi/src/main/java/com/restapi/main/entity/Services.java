@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 
 import com.restapi.main.repo.UserRepository;
 
-@Component
+@Services
 public class Services {
 	
 	@Autowired
